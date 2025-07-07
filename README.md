@@ -3,8 +3,7 @@
 A real-time chat application that allows users to join chat rooms and communicate instantly using WebSockets. This project uses:
 
 - ⚙️ **Node.js + ws** for backend WebSocket communication
-- 🎨 **React** for frontend UI
-- 🌬️ **Tailwind CSS** for styling
+
 
 ---
 
@@ -16,7 +15,7 @@ A real-time chat application that allows users to join chat rooms and communicat
 - Messages are broadcast **only within that room**
 - Users are **automatically removed** on disconnect
 - Messages are sent in **real-time**
-- Simple JSON-based protocol for message types:
+- JSON-based protocol for message types:
   - `"join"`: joins a room
   - `"chat"`: sends a chat message to the current room
 
