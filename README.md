@@ -1,4 +1,4 @@
-# 💬 Real-Time Chat App (WebSocket + React + Tailwind)
+# 💬 Real-Time Chat App (WebSocket)
 
 A real-time chat application that allows users to join chat rooms and communicate instantly using WebSockets. This project uses:
 
